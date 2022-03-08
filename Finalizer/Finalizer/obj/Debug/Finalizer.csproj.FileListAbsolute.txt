@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\Finalizer\Finalizer\bin\Debug\Finalizer.exe.config
+C:\Users\jacob\source\repos\Finalizer\Finalizer\bin\Debug\Finalizer.exe
+C:\Users\jacob\source\repos\Finalizer\Finalizer\bin\Debug\Finalizer.pdb
+C:\Users\jacob\source\repos\Finalizer\Finalizer\obj\Debug\Finalizer.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\Finalizer\Finalizer\obj\Debug\Finalizer.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Finalizer\Finalizer\obj\Debug\Finalizer.exe
+C:\Users\jacob\source\repos\Finalizer\Finalizer\obj\Debug\Finalizer.pdb
